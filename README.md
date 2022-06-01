@@ -1,6 +1,8 @@
-## KKLab Seminar Trip 2022
+# KKLab Seminar Trip 2022
 
+作成した地図は、こちら
 
+https://kklab.mobi/kklabTrip2022/
 
 # Geolonia PWAマップ
 
